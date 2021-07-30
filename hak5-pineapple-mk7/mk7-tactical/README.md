@@ -2,7 +2,7 @@
 
 A *completely unofficial* case for the MK7 with mounting for straps.
 
-![Tactical case](img/tactical.jpg)
+<img src="img/tactical.jpg" width="480">
 
 ## Parts list
 
