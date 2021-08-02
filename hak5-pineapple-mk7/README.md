@@ -4,7 +4,7 @@
 
     2d and 3d model of the Wi-Fi Pineapple MK7 PCB, useful for designing cases.
 
-* mk7-kismetcase-tactical-bottom.stl
+* mk7-tactical
 
-    A 3d-printable replacement bottom panel for the Kismet-themed MK7 acrylic case with slots for tactical webbing.  We recommend you print this with PETG for strength.
+    A "tactical" webbing mount bottom plate for the Kismet MK7 case, and a completely printable "tactical" case.
 

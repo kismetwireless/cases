@@ -4,9 +4,13 @@ A *completely unofficial* case for the MK7 with mounting for straps.
 
 <img src="img/tactical.jpg" width="480">
 
+## Tactical Kismet case
+
+Have an acrylic Kismet MK7 case?  Want to get in on the tacti-cool mounting?  Grab the [./mk7-kismetcase-tactical-bottom.stl](Kismet mod bottom STL); it replaces the existing blank acrylic bottom piece and uses the same screws.
+
 ## Parts list
 
-In addition to the top and bottom case parts, you will need:
+In addition to printing the [./mk7-tactical-case-top.stl](top) and [./mk7-tactical-case-bottom.stl](bottom) parts of the case, you will need:
 
 1. 4x [M5 10-16mm bolts](https://smile.amazon.com/gp/product/B07KWQ4JFK/)
 
@@ -24,8 +28,7 @@ In addition to the top and bottom case parts, you will need:
 
 ## Printing
 
-For strength the case should likely be printed from PETG, however other materials are likely fine in most situations.
+Generally for strength and durability I recommend printing the case in PETG, however PLA is likely just fine for most situations.
 
-Also for strength, the number of perimeters should be boosted; 5 to 8 perimeters will yield a good result.
-
+For strength, the prints should be done with extra perimeters; 4 to 8 perimeters in the slicer should yield a very strong print.
 
