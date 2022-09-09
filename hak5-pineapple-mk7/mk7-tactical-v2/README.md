@@ -32,7 +32,7 @@ For strength, the prints should be done with extra perimeters; 4 to 8 perimeters
 
 The V2 case is designed to be printable without supports.
 
-## Tactical + Kismet Acrylcis
+## Tactical + Kismet Acrylics
 
 Have an acrylic Kismet MK7 case?  Want to get in on the tacti-cool mounting?  Grab the [./mk7-kismetcase-tactical-bottom.stl](Kismet mod bottom STL); it replaces the existing blank acrylic bottom piece and uses the same screws.
 
