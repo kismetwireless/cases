@@ -8,3 +8,6 @@
 
     A "tactical" webbing mount bottom plate for the Kismet MK7 case, and a completely printable "tactical" case.
 
+## Disclaimer
+
+These cases and models were made for fun, and are provided for personal use.  Measurements may not be exact, removing the case from a WiFi Pineapple will void your warranty, etc etc.
