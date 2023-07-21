@@ -4,9 +4,13 @@ A *completely unofficial* case for the MK7 with mounting for straps.
 
 <img src="img/tactical.jpg" width="480">
 
+## New version!
+
+The [v3 version](../mk7-tactical-3/) of the case may be what you're looking for instead!
+
 ## Parts list
 
-In addition to printing the [./mk7-tactical-v2-case-top.stl](top) and [./mk7-tactical-v2-case-bottom.stl](bottom) parts of the case, you will need:
+In addition to printing the [top](./mk7-tactical-v2-case-top.stl) and [bottom](./mk7-tactical-v2-case-bottom.stl) parts of the case, you will need:
 
 1. 4x M5x8mm bolts
 
@@ -32,7 +36,4 @@ For strength, the prints should be done with extra perimeters; 4 to 8 perimeters
 
 The V2 case is designed to be printable without supports.
 
-## Tactical + Kismet Acrylics
-
-Have an acrylic Kismet MK7 case?  Want to get in on the tacti-cool mounting?  Grab the [./mk7-kismetcase-tactical-bottom.stl](Kismet mod bottom STL); it replaces the existing blank acrylic bottom piece and uses the same screws.
 
