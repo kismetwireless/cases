@@ -7,7 +7,7 @@ A *completely unofficial* case for the MK7 with mounting for straps.
 
 ## Changes in V3
 
-* Accomodates the MK7AC USB module cleanly
+* Fits the MK7AC USB module cleanly
 
 * Better printability with built-in bridges on the countersunk holes
 
@@ -19,7 +19,7 @@ A *completely unofficial* case for the MK7 with mounting for straps.
 
 ## Parts list
 
-In addition to printing the [./mk7-tactical-v2-case-top.stl](top) and [./mk7-tactical-v2-case-bottom.stl](bottom) parts of the case, you will need:
+In addition to printing the [top](./mk7-tactical-v3-top.stl) and [bottom](./mk7-tactical-v3-bottom.stl) parts of the case, you will need:
 
 1. 4x M5x8mm bolts
 
@@ -43,9 +43,5 @@ Generally for strength and durability I recommend printing the case in PETG, how
 
 For strength, the prints should be done with extra perimeters; 4 to 8 perimeters in the slicer should yield a very strong print.
 
-The V2 case is designed to be printable without supports.
-
-## Tactical + Kismet Acrylics
-
-Have an acrylic Kismet MK7 case?  Want to get in on the tacti-cool mounting?  Grab the [./mk7-kismetcase-tactical-bottom.stl](Kismet mod bottom STL); it replaces the existing blank acrylic bottom piece and uses the same screws.
+The V3 case is designed to be printable without supports.
 
